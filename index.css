@@ -20,3 +20,8 @@ header {
     background-color: bisque;
     min-height: 50vh;
 }
+
+.features {
+    background-color: gray
+    min-height: 50vh
+}
