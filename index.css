@@ -7,9 +7,16 @@
 body {
     background-color: blue;
     color: white;
+   
 }
 
 header {
     background-color: gold;
     color: black;
+    padding: 30px;
+}
+
+.hero {
+    background-color: bisque;
+    min-height: 50vh;
 }
