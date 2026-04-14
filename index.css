@@ -29,3 +29,8 @@ header {
 .contact {
     background-color: green;
 }
+
+.footer {
+    background-color: aqua;
+    padding: 4rem 0;
+}
