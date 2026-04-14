@@ -22,6 +22,10 @@ header {
 }
 
 .features {
-    background-color: gray
-    min-height: 50vh
+    background-color: gray;
+    /* min-height: 50vh */
+}
+
+.contact {
+    background-color: green;
 }
